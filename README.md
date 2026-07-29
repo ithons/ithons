@@ -2,7 +2,7 @@
 
 cs @ mit (bs '27 → meng '28). i build systems and work on language models — post-training, forecasting, and multi-agent behavior.
 
-currently in [jacob andreas's group at csail](https://www.csail.mit.edu/person/mahdi-afshari), building an rl post-training loop (rest-em → grpo) that trains a policy to inject task-relevant knowledge into a frozen model's context.
+currently in [jacob andreas's group at csail](https://lingo.csail.mit.edu/), building an rl post-training loop (rest-em → grpo) that trains a policy to inject task-relevant knowledge into a frozen model's context.
 
 ### selected work
 
