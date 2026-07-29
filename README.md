@@ -13,7 +13,3 @@ currently in [jacob andreas's group at csail](https://lingo.csail.mit.edu/), bui
 - mausa: congestion-aware routing for an interplanetary delay-tolerant network (nasa solarnet simulation). worst-case control-message overhead of 0.008% of link bandwidth, while meeting delivery deadlines across earth, moon, and mars links. [paper](https://mahdiafshari.com/papers/mausa-6.1800-final-report.pdf)
 
 most of my research code (self-adapting language models, the multi-agent negotiation environment, and the prediction-market forecasting study now under review) lives in private repos. happy to walk through any of it.
-
-### elsewhere
-
-[site](https://mahdiafshari.com) · [linkedin](https://linkedin.com/in/mahdiafshari) · afshari@mit.edu
